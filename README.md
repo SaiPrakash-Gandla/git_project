@@ -52,8 +52,8 @@ Setting up git in ubuntu linux servers
 
 ----------------------------------------------------------------------
 Configuring user and email globally for all users on a system
-git config --global user.name "sai krishna"
-git config --global user.email "intelliqittrainings@gmail.com"
+git config --global user.name "saiprakash"
+git config --global user.email "gandla.saiprakash@gmail.com"
 
 -----------------------------------------------------------------------
 On the local machine git uses three sections
